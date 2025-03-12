@@ -1,6 +1,6 @@
 ## Hi there,Im Vino 👋
 # 💫 About Me:
-🎓 Student at SMKN 6 Surakarta | Aspiring Developer<br>💻 Passionate about Machine Learning & Web Development<br>🎮 Currently Working on Machine Learning AI Project<br>🚀 Exploring unique & creative ideas for my projects
+🎓 Student at SMKN 6 Surakarta | Aspiring Developer<br>💻 Passionate about Machine Learning & Web Development<br>🎮 Passionate on Machine Learning <br>🚀 Exploring unique & creative ideas for my projects
 
 
 ## 🌐 Socials:
